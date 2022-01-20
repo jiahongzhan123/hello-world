@@ -8,5 +8,6 @@ int main()
   cout << "1 commit" << endl;
   cout << "2 commir" << endl;
   cout << "remote modify" << endl;
+  cout << "personal computer modify" << endl;
   return 0;
 }
