@@ -9,5 +9,7 @@ int main()
   cout << "2 commir" << endl;
   cout << "remote modify" << endl;
   cout << "personal computer modify" << endl;
+  cout << "new branch test" << endl;
+
   return 0;
 }
